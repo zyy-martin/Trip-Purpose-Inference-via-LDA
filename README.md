@@ -2,7 +2,7 @@
 
 Author: Yaoyang Zhang
 
-This repository contains code and examples for a novel way of inferencing trip purposes of people in the Bay Area from Clipper Card transaction data using Latent Dirichlet Allocation.
+This repository contains code and examples for a novel way of inferencing trip purposes of people in the Bay Area from Clipper Card transaction data via Latent Dirichlet Allocation.
 
 Details of LDA can be found [here](http://www.cs.columbia.edu/~blei/papers/BleiNgJordan2003.pdf).
 
